@@ -44,7 +44,7 @@
 ## 🚀 在线试玩
 
 👉 [点击这里，直接在浏览器中游玩](https://cocoa-zxy.github.io/RushDownward/)  
-（推荐使用手机 Chrome 或电脑 Chrome 浏览器，首次加载可能稍慢，请耐心等待）
+（推荐使用电脑 Chrome 浏览器，首次加载可能稍慢，请耐心等待）
 
 ---
 
