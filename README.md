@@ -20,7 +20,7 @@
 ## 🚀 在线试玩
 点击下方链接，在浏览器中直接开始游戏（推荐使用手机或电脑Chrome浏览器）：
 
-👉 [**Rush Downward 在线试玩**]（https://cocoa-zxy.github.io/RushDownward/）
+👉 [**Rush Downward 在线试玩**]（https://cocoa-zxy.github.io/RushDownward/)
 
 ## 📌 版本记录
 *   **v1.0**：完成了掉落、平台、血条、道具（护盾）等核心玩法闭环。
