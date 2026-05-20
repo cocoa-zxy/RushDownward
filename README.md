@@ -12,7 +12,7 @@
 ## 📸 游戏截图
 
 <!-- 这里放你的游戏截图，建议 2-3 张，可以直接拖拽上传 -->
-> 截图待补充（cocoa，请在这里粘贴你的游戏截图）
+> 游戏截图
 
 ---<img width="1544" height="869" alt="屏幕截图 2026-05-20 175613" src="https://github.com/user-attachments/assets/87b64834-d273-4d54-92b3-5e6650336b51" />
 <img width="1542" height="867" alt="屏幕截图 2026-05-20 175635" src="https://github.com/user-attachments/assets/1edd3c04-36f3-423d-b16e-d4ad41879fa2" />
